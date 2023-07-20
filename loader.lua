@@ -1,3 +1,10 @@
+--[[
+
+  Protected with Luameon v2.4.6, Premium Obfuscation Service. (PRIVATED)
+  Key: {FE9DAE6E-E2CA-41B1-B4A7-D5DC94729FFD}
+
+--]]
+
 local obf_stringchar = string.char;
 local obf_stringbyte = string.byte;
 local obf_stringsub = string.sub;
